@@ -1,0 +1,4 @@
+OpenCore 0.9.7
+Lenovo M93p + Intel 4590T
+Updated: $(date +%Y-%m-%d)
+
